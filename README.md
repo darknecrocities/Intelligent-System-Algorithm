@@ -1,4 +1,4 @@
-# 🤖 Intelligent Systems Algor — Robotics & RL Project
+# 🤖 Intelligent Systems Algorithm — Robotics & RL Project
 
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-latest-green.svg)](https://numpy.org/)
